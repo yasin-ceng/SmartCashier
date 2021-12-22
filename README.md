@@ -1,4 +1,4 @@
-# Akıllı Alıiveriş Sistemi Projesi
+# Akıllı Alışveriş Sistemi Projesi
 - Akıllı alışveriş sistemine ait verileri tutmaktadır.
 
 
