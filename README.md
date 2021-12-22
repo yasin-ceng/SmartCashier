@@ -1,5 +1,3 @@
-# Akıllı Alışveriş Sistemi
-
 # Akıllı Alıiveriş Sistemi Projesi
 - Akıllı alışveriş sistemine ait verileri tutmaktadır.
 
