@@ -19,4 +19,4 @@
 
 ### _Sistem Test Görseli_
 
-![tespitEdildi](https://user-images.githubusercontent.com/59895745/147089149-fad30a19-88d0-4e6c-af87-8c5c4a22b4a0.jpg)
+![tespitEdildi](https://user-images.githubusercontent.com/59895745/147092376-b1e41a95-1f16-4ccc-a498-190952a1ed80.jpg)
