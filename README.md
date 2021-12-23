@@ -16,6 +16,7 @@
 - Python Programlama Dili
 - 21 Adet Etiketlenmiş Eğitim Görseli
 - LabelImg Etiketleme Aracı
+- You Only Look Once (YOLOv3) Nesne Tanıma Algoritması
 
 ### _Sistem Test Görseli_
 
