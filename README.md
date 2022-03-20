@@ -20,4 +20,5 @@
 
 ### _Sistem Test Görseli_
 
-![tespitEdildi](https://user-images.githubusercontent.com/59895745/147092376-b1e41a95-1f16-4ccc-a498-190952a1ed80.jpg)
+
+![fire-app](https://user-images.githubusercontent.com/59895745/159176466-c54e481d-9a2f-46cf-9d29-d005599f46a2.jpg)
